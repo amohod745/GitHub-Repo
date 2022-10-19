@@ -1,0 +1,17 @@
+url = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+username = Admin
+password = admin123
+browser = chrome
+reportername = Akshay
+inputname = Ishwar Bittewar
+username1 = Shantanu Kene
+excelpath = C:\Users\amoho\Downloads\Investment Banking 4th June Evening.docx
+timeempname = Paul Collings
+fname = Akshay
+mname = Annarao
+lname = Mohod
+email = amohod745@gmail.com
+mobilenumber = 8456736601
+file = C:\Desktop\Test DATA\Student.xlsx
+keyword = selenium with java
+msg = hello ! world
